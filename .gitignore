@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.spec
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+dados/
+lib/
+lib64/
+parts/
+sdist/
+ssh/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+id_key
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# Environments
+my_projec_venv
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+my_venv/
+venv.bak/
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Documentos
+*.docx
+
+# Editor de código
+.vscode/
+.idea/
